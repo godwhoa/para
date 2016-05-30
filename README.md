@@ -5,7 +5,7 @@ Tiny command-line util. that lets you run commands in non-blocking manner.
 
 ### Usage
 ```
-# commands will all run in parallel
+# commands will all run in non-blocking manner
 para "command1" "command2" "command3"...
 ```
 
